@@ -1,0 +1,20 @@
+{
+  "name": "V T G",
+  "symbol": "VTG",
+  "description": "200 VTGs",
+  "image": "https://avatars.githubusercontent.com/u/117456301?v=4",
+  "attributes": [
+    {
+      "trait_type": "Ape",
+      "value": "Shared Ae"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "H5zB1M1cfmYeRt9LH4dJ47QMEACp4FFDvgZdM8eikttN",
+        "share": 100
+      }
+    ]
+  }
+}
